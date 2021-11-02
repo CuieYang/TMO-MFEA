@@ -16,4 +16,4 @@ If you use this code for your research, please consider citing:
 ```
 
 ## Contact
-If you have any problem about our code, feel free to contact yaoyueduzhen@outlook.com.
+If you have any problem about our code, feel free to contact cuieyang@outlook.com.
